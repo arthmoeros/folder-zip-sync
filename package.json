@@ -1,7 +1,7 @@
 {
-  "name": "folder-zip-sync",
-  "version": "1.0.4",
-  "description": "zip a folder synchronously",
+  "name": "folder-zip-sync-qsdt",
+  "version": "1.0.5",
+  "description": "zip a folder synchronously - fork",
   "main": "index.js",
   "dependencies": {
     "deasync": "^0.1.9",
