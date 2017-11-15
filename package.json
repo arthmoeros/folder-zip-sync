@@ -1,7 +1,7 @@
 {
-  "name": "folder-zip-sync-qsdt",
-  "version": "1.0.5",
-  "description": "zip a folder synchronously - fork",
+  "name": "folder-zip-sync-fork",
+  "version": "1.0.6",
+  "description": "zip a folder synchronously - forked to support empty folders",
   "main": "index.js",
   "dependencies": {
     "deasync": "^0.1.9",
@@ -11,6 +11,10 @@
   "scripts": {
     "start": "node index",
     "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthmoeros/folder-zip-sync.git"
   },
   "keywords": [
     "aws"

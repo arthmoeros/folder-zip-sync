@@ -1,6 +1,6 @@
 # folder-zip-sync
 
-zip a folder synchronously.
+zip a folder synchronously - forked to support empty folders.
 
 ## as a function
 
